@@ -13,7 +13,7 @@ global.APIs = {
 // APIKEY \\
 global.APIKeys = {
 	'https://api.fgmods.xyz': 'S8mje6wW', // FREE LIMIT 100
-	'https://api.zeeoneofc.my.id': 'raPeTOyWyxfCxxB' // ISI APIKEY LU
+	'https://api.zeeoneofc.my.id': 'none' // ISI APIKEY LU
 }
 
 global.namabot = "JER-BOTZ MD" // UBAH JADI NAMA LU
