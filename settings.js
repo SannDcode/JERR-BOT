@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // APIKEY OPEN AI
-global.jeropenai  = "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" // ISI APIKEY LU
+global.jeropenai  = "none" // ISI APIKEY LU
 
 // Api
 global.APIs = {
@@ -13,7 +13,7 @@ global.APIs = {
 // APIKEY \\
 global.APIKeys = {
 	'https://api.fgmods.xyz': 'S8mje6wW', // FREE LIMIT 100
-	'https://api.zeeoneofc.my.id': 'none' // ISI APIKEY LU
+	'https://api.zeeoneofc.my.id': 'raPeTOyWyxfCxxB' // ISI APIKEY LU
 }
 
 global.namabot = "JER-BOTZ MD" // UBAH JADI NAMA LU
